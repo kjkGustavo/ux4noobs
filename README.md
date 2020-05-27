@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="https://i.imgur.com/LIPvNAl.png" alt="Logo" width="500" height="400">
+    <img src="https://i.imgur.com/LIPvNAl.png" alt="Logo" width="100%" height="400">
   </a>
 
   <h3 align="center">UX4Noobs desenvolvido pela He4rt Developers</h3>
